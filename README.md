@@ -1,0 +1,1 @@
+This project covers fundamental algorithmic problems as part of the Algorithm course. It includes solutions to a greedy algorithm problem, Dijkstra’s shortest path algorithm, and a dynamic programming problem.
